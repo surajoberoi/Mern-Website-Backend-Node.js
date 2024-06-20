@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Mern-Website-Backend-Node.js
+  annotations:
+    github.com/project-slug: Surajoberoi/Mern-Website-Backend-Node.js-
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Suraj
