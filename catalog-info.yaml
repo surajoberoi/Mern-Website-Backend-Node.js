@@ -2,11 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: mern-website-backend
-  annotations:
-    backstage.io/techdocs-ref: value
   description: Backend part of the Mern Website project
   annotations:
     github.com/project-slug: Surajoberoi/Mern-Website-Backend-Node.js
+    backstage.io/techdocs-ref: value
 spec:
   type: service
   lifecycle: development
